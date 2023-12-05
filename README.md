@@ -1,7 +1,7 @@
 # Business-Analytics
 ## Data Analytics Portfolio
 
-This is the portfolio of all class assignments I have completed in Data Analytics.
+This is a portfolio of all class assignments I have completed in Data Analytics.
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1hBCEwwIHirfbWsGKbFXGg1UKqv3_uV8F)
